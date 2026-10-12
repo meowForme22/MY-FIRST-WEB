@@ -1,0 +1,21 @@
+.image-box {
+    text-align: center;
+    width: 320px;
+    padding: 10px;
+    border: 2px solid #d6c5a3;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    background-color: white;
+}
+
+.image-box img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.image-box h2 {
+    font-size: 18px;
+    margin-top: 10px;
+}
